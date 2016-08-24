@@ -1,0 +1,32 @@
+1.How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+When we can compare files, we can see what was introduced and removed. And follow from top to bottom, what has changed or updated to improve any feature or algorithm. 
+
+2.How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Somehow, It can work as a follow up for your technical progress and even check how have u improved, since the start and How You start based on your thoughts and vision about this project. 
+
+3.What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+By saving automatically can create many update in history, which can make a huge amount of checkpoints in history without working properly by providing information about logical assessment and changes for a good reason. 
+
+4.Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because they have system that allows you to know how to handle your repository and know how each file is modified or controlled, making easier to handle any file on git repository. 
+
+5.How can you use the commands git log and git diff to view the history of files?
+
+Git log command will show the history of your commits and track them byt their title and Git diff will compare two files to know What has changed between these files. 
+
+6.How might using version control make you more confident to make changes that could break something?
+
+If something get wrong you can compare what has changed using git diff to know exactly where and when the bug has been introduced. 
+
+7.Now that you have your workspace set up, what do you want to try using Git for?
+
+Create my own projects, contribute into open source projetcs that I like and have fun using GIT to experiment new things. 
+
+
+
+
+
