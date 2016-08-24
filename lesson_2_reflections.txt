@@ -1,0 +1,11 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+
+Repository list will initialize with .git directory with subdirectories for objects, refs/heads and refs/tags and template files. An initial HEAD file that references the HEAD of the master branch is also created. 
+
+We need to start it using git on a project that's not under git. And it is usefull to manage your project's repo. Because Git doesn't run as a server*, instead the .git folder acts as your local 'server' that all the git commands communicate with, basically running git commands edits the contents of the .git folder. 
+
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit. It's sometimes referred to as the "index", but it's also common to refer to it as the staging area. 
+
+
